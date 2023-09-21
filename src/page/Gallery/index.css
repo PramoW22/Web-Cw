@@ -1,0 +1,21 @@
+.card{
+    width: 300px;
+    height:400px;
+    display: flex;
+    flex-direction: column;
+    
+}
+@media(min-width: 600px){
+    .card{
+        width: 200;
+        height: 200;
+    }
+    
+}
+.card-img-top{
+  align-items: center;
+}
+.Gallery{
+    align-content: center;
+}
+
